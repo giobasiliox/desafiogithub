@@ -23,4 +23,8 @@ background-color: palevioletred;
     border: 5px green double;
     
 }
+.caixadetext:focus{
+    border: 5px rgb(241, 58, 119) double;
+    outline: 0;
+}
 
