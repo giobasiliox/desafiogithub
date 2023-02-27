@@ -4,16 +4,23 @@ form{
     width: 50%;
     margin: auto;
 
+border-radius: 10px;
+
 }
 #enviar{
     width: 15%;
     margin: auto;
-    background-color: black;
-    color:white;
+    background-color: pink;
+
+    
     border-radius: 10px;
 }
 
 #enviar:hover{
 background-color: palevioletred;
+}
+.caixadetext{
+    border: 5px green double;
+    
 }
 
