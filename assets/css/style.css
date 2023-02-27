@@ -5,3 +5,15 @@ form{
     margin: auto;
 
 }
+#enviar{
+    width: 15%;
+    margin: auto;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+#enviar:hover{
+background-color: palevioletred;
+}
+
